@@ -9,12 +9,6 @@ I’m passionate about turning innovative ideas into impactful digital solutions
 - 🎯 Looking for **internships or entry-level opportunities** in web development or software engineering
 
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritika-giri/)  
-📧 [giri.pri003@gmail.com](mailto:giri.pri003@gmail.com)
-
----
-
 ## 💻 Tech Stack
 
 ### 🖥️ Programming Languages  
