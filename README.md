@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Pritika Giri  
 **Aspiring Full Stack Developer | B.Sc.CSIT Student @ IOST, TU**
 
-Hi there! I'm **Pritika Giri**, a dedicated and enthusiastic **Full Stack Developer in the making**, currently pursuing my **7th semester of BSc CSIT** at the *Institute of Science and Technology (IOST), Tribhuvan University*.
+Hi there! I'm **Pritika Giri**, a dedicated and enthusiastic **Full Stack Developer **
 
 I’m passionate about turning innovative ideas into impactful digital solutions. From designing interactive frontends to building scalable backends, I love diving into every layer of software development. I’m constantly exploring new tools and technologies, and I'm currently **seeking exciting internship opportunities** where I can apply my skills, contribute to real-world projects, and continue learning from experienced developers.
 
