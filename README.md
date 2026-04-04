@@ -5,9 +5,8 @@ Hi there! I'm **Pritika Giri**, a passionate **Frontend Developer** with 6 month
 
 I've worked with **React.js, Next.js, and TypeScript** in a real production environment, integrated REST APIs, and built full-stack projects with Node.js and PostgreSQL. I'm currently **open to Frontend Developer and Trainee opportunities** where I can contribute, grow, and make an impact.
 
-- 🎯 Open to **Frontend Developer / Trainee roles** in web development
-- 🌱 Currently exploring **advanced React patterns & system design**
-- 📍 Based in Bhaktapur, Nepal
+-  Open to **Frontend Developer / Trainee roles** in web development
+-  Currently exploring **advanced React patterns & system design**
 - 🔗 [Portfolio](https://pritika-giri.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/pritika-giri/)
 
 ---
