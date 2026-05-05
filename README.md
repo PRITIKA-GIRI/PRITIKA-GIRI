@@ -7,7 +7,7 @@ I've worked with **React.js, Next.js, and TypeScript** in a real production envi
 
 -  Open to **Frontend Developer / Trainee roles** in web development
 -  Currently exploring **advanced React patterns & system design**
-- 🔗 [Portfolio](https://pritika-giri.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/pritika-giri/)
+- 🔗 [Portfolio](https://pritikagiri.com.np/) · [LinkedIn](https://www.linkedin.com/in/pritika-giri/)
 
 ---
 
